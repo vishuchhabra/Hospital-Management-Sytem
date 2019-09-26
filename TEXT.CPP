@@ -10,8 +10,10 @@
     #include<process.h>
     #include<string.h>
     #include<iomanip.h>
+    #include<window.h>
     //FUNCTION PART**********************************************
     void   exot();
+    //hlo friends;
     void page1()
 	{
 	    clrscr();
@@ -949,7 +951,7 @@ switch(x)
 	case 2:
 	z.search();
 	break;
-	
+
 	case 3:
 	z.update();
 	break;
