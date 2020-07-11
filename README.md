@@ -1,4 +1,4 @@
-# use this  cpp file  only in turbo compiler or you can include <graphics.h> in your desired compiler.
+# Use this  cpp file  only in turbo compiler or you can include <graphics.h> in your desired compiler.
 # steps  for run this  project file:
 1.put file TEXT.CPP in bin folder of TURBO3
 
